@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, jsonify
+from predict import pos_neg
 
 app = Flask(__name__)
 

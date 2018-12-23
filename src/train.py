@@ -1,4 +1,5 @@
 import pickle
+import json
 from sklearn.datasets import load_files
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -8,7 +9,7 @@ from sklearn.metrics import accuracy_score
 # Get the data and labels
 data = load_files('../dataset/txt_sentoken', encoding="utf-8", decode_error="replace")
 x_train, x_test, y_train, y_test = train_test_split(data.data, data.target)
-labels = [label for label in  enumerate(data.target_names)]
+labels = [label for label in data.target_names]
 
 print('Computing...')
 
@@ -26,6 +27,10 @@ model.fit(x_train_vec, y_train)
 predictions = model.predict(x_test_vec)
 accuracy = accuracy_score(y_test, predictions)
 print("The model's accuracy is {0:.2f}%".format(100 * accuracy))
+
+print('Saving the labels...')
+with open('labels.json', 'w') as fd:
+    json.dump(labels, fd)
 
 print('Pickling the model and the vectorizer...')
 with open('model.pickle', 'wb') as fd:
