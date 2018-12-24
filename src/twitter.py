@@ -21,6 +21,10 @@ def reduce_tweet(tweet):
         'favorite_count': tweet.favorite_count
     }
 
-def get_tweets(query, count=20):
+def get_tweets(topic, count=20):
+    # TODO
+    # search for tweets mentioning a user
+    # search for tweets on a hashtag
+    query = '{} -filter:retweets'.format(topic)
     tweets = [reduce_tweet(tweet) for tweet in tweepy.Cursor(api.search, q=query, tweet_mode='extended').items(count)]
     return tweets
