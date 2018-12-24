@@ -26,5 +26,5 @@ def get_tweets(topic, count=20):
     # search for tweets mentioning a user
     # search for tweets on a hashtag
     query = '{} -filter:retweets'.format(topic)
-    tweets = [reduce_tweet(tweet) for tweet in tweepy.Cursor(api.search, q=query, tweet_mode='extended').items(count)]
+    tweets = [reduce_tweet(tweet) for tweet in tweepy.Cursor(api.search, q=query, tweet_mode='extended', result_type='popular', lang='en').items(count)]
     return tweets
