@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pickle
 labels.json
+config.json
