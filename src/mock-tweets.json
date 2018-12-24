@@ -1,0 +1,262 @@
+[
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4270400938961665,
+                "pos": 0.5729599061038335
+            }
+        },
+        "retweet_count": 0,
+        "text": "@AaronBlake Donald trump as president.",
+        "user": "maggiekeanezart"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "neg",
+            "probabilities": {
+                "neg": 0.5506998720359593,
+                "pos": 0.4493001279640408
+            }
+        },
+        "retweet_count": 0,
+        "text": "Donald Trump Doing More Harm To National Security Than Any Foreign Adversary, Says Former Security Adviser https://t.co/b6SN0RpSha",
+        "user": "CamelotK"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.385897606131248,
+                "pos": 0.614102393868752
+            }
+        },
+        "retweet_count": 0,
+        "text": "@ABC No intelligent person wants to work for Donald Trump",
+        "user": "trubl9"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.48851331200532044,
+                "pos": 0.5114866879946796
+            }
+        },
+        "retweet_count": 0,
+        "text": "Merry Christmas.\nTrump told Turkey's Erdogan in Dec. 14 call about Syria, 'it's all yours. We are done'\nhttps://t.co/6Fwe9NRGeN",
+        "user": "swissjldd"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.41866652844577856,
+                "pos": 0.5813334715542214
+            }
+        },
+        "retweet_count": 0,
+        "text": "President Donald Trump believes responsibility for a government shutdown goes straight to the top, right to the president’s office. At least that’s what he said on Fox News — when he was talking about Barack Obama in 2013. https://t.co/dkoj8xpRb4",
+        "user": "PrincessTUD"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4932874768096377,
+                "pos": 0.5067125231903623
+            }
+        },
+        "retweet_count": 0,
+        "text": "Hi Mr president Donald Trump read this",
+        "user": "jaric01"
+    },
+    {
+        "favorite_count": 1,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.3541310880164148,
+                "pos": 0.6458689119835852
+            }
+        },
+        "retweet_count": 0,
+        "text": "President Donald Trump is coming off one of his roughest weeks as president, at least in his critics’ eyes https://t.co/dYEqAamNcN",
+        "user": "BloombergAsia"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.49185730627357815,
+                "pos": 0.5081426937264218
+            }
+        },
+        "retweet_count": 0,
+        "text": "US universities oppose Donald Trump administration’s visa policy changes for foreign students https://t.co/xljndJheZ9",
+        "user": "Viraltestinfo"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "neg",
+            "probabilities": {
+                "neg": 0.5977229205330294,
+                "pos": 0.40227707946697056
+            }
+        },
+        "retweet_count": 0,
+        "text": "LYING HACKS: MSNBC Gets Caught Using 2011 Border Patrol Video to TRASH DONALD TRUMP ...(Obama Years Again) --VIDEO https://t.co/NwA7ngUqz9 via @gatewaypundit",
+        "user": "marjoriemkh"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "neg",
+            "probabilities": {
+                "neg": 0.5977229205330294,
+                "pos": 0.40227707946697056
+            }
+        },
+        "retweet_count": 0,
+        "text": "LYING HACKS: MSNBC Gets Caught Using 2011 Border Patrol Video to TRASH DONALD TRUMP ...(Obama Years Again) --VIDEO https://t.co/AJG8wRL7fs via @gatewaypundit",
+        "user": "Bill_myers_45"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "neg",
+            "probabilities": {
+                "neg": 0.5443827728612891,
+                "pos": 0.45561722713871095
+            }
+        },
+        "retweet_count": 0,
+        "text": "Even Fox News can no longer figure out what Donald Trump is talking about - https://t.co/NdJGLljYEg via @PalmerReport",
+        "user": "sonneyjo"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4902399053799217,
+                "pos": 0.5097600946200783
+            }
+        },
+        "retweet_count": 0,
+        "text": "@lauhaim @realDonaldTrump Parole de Erdogan 👎🏴 à Donald Trump👎🏴, parole avérée, souvent, d'un faux cul ! Extermination des Kurdes en vue ! 🆘❌🏴",
+        "user": "uncitoyen1"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4948036888267453,
+                "pos": 0.5051963111732547
+            }
+        },
+        "retweet_count": 0,
+        "text": "@MickMulvaneyOMB \nI'm glad you look forward to playing in Trump's sandbox. \n\nI have $500 that says Donald Trump will be forced out of office by the end of July 2019. Put your money where your mouth is and pea brain Mulvaney.\nI figure small man small bet.",
+        "user": "countryquencher"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4086676677080392,
+                "pos": 0.5913323322919608
+            }
+        },
+        "retweet_count": 0,
+        "text": "@CNN @CNNOpinion The whole world is laughing at Donald Trump",
+        "user": "trubl9"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.29521039147919126,
+                "pos": 0.7047896085208087
+            }
+        },
+        "retweet_count": 0,
+        "text": "@TheGregScott @realDonaldTrump I do. Donald Trump is my favorite president he will go down in history being a great president and the Liberals will go down as being brainwashed traitors!",
+        "user": "dmartinezvizzo"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4585691628359396,
+                "pos": 0.5414308371640604
+            }
+        },
+        "retweet_count": 0,
+        "text": "https://t.co/pZymKKfgjK",
+        "user": "calongesj"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "neg",
+            "probabilities": {
+                "neg": 0.5120155432269952,
+                "pos": 0.48798445677300484
+            }
+        },
+        "retweet_count": 0,
+        "text": "@davidsim The British Donald Trump of Humour.\nDeeply unfunny &amp; offensive to Most, but that’s never stopped you.\nThat’s as offensive as slurring someone because of their religious beliefs, sexual preference or ethnicity.\nHonestly Alan, Grow up and act your age, not your Shoe size. https://t.co/QVmoxOprtz",
+        "user": "Miah39Jerry"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.40498492540062103,
+                "pos": 0.595015074599379
+            }
+        },
+        "retweet_count": 0,
+        "text": "WARNING !!!! || DO NOT LET DONALD TRUMP BECOME PRESIDENT///// HE SUPPORT MINION MARRIAGE || WARNING !!!!",
+        "user": "jrctic_ebooks"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.4516318344794523,
+                "pos": 0.5483681655205477
+            }
+        },
+        "retweet_count": 0,
+        "text": "Brigitte Macron pose avec Marcel Campion. Son mari a bien posé avec Donald Trump...",
+        "user": "U_N__Owen"
+    },
+    {
+        "favorite_count": 0,
+        "prediction": {
+            "label": "pos",
+            "probabilities": {
+                "neg": 0.47922256465021407,
+                "pos": 0.5207774353497859
+            }
+        },
+        "retweet_count": 0,
+        "text": "Could Donald Trump really be spying for Vladimir Putin? https://t.co/27UAcbEMPZ",
+        "user": "CassStarchild"
+    }
+]
