@@ -3,17 +3,26 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Concept Difference</title>
+    <title>Pos-Neg</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ url_for('static', filename='lib/bootstrap.min.css') }}" />
     <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}" />
 </head>
 <body>
     <div class="container">
-        Hello!
+        <div class="row">
+            <div class="col">
+                <form id="input-form">
+                    <input id="topic-input" type="text" placeholder="Topic here..." />
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+        <canvas id="tweet-graph"></canvas>
     </div>
     <script src="{{ url_for('static', filename='lib/jquery-3.3.1.min.js') }}"></script>
     <script src="{{ url_for('static', filename='lib/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='lib/chart.bundle.min.js') }}"></script>
     <script src="{{ url_for('static', filename='index.js') }}"></script>
 </body>
 </html>
